@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mind in Motion: Mental Health After Injury</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet" />
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f7fb;
+      color: #333;
+    }
+    header {
+      background-color: #1e3a8a;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    nav {
+      text-align: center;
+      margin-top: 1rem;
+    }
+    nav a {
+      margin: 0 1rem;
+      text-decoration: none;
+      color: #1e3a8a;
+      font-weight: bold;
+    }
+    section {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    .card {
+      background-color: white;
+      border-radius: 12px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      padding: 1.5rem;
+      margin-bottom: 2rem;
+    }
+    footer {
+      background-color: #1e3a8a;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Mind in Motion</h1>
+    <p>Supporting Athletes Mentally After Injury</p>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#resources">Resources</a>
+    <a href="#stories">Stories</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="about" class="card">
+    <h2>Why This Matters</h2>
+    <p>Injuries don't just affect the body—they can deeply impact the mind. Student-athletes often struggle with identity loss, isolation, and anxiety during recovery. This project is designed to help you stay strong—physically and mentally.</p>
+  </section>
+
+  <section id="resources" class="card">
+    <h2>Resources for Recovery</h2>
+    <ul>
+      <li><strong>Mental Resilience Tips:</strong> Journaling, mindfulness, visualization, positive self-talk.</li>
+      <li><strong>Helplines:</strong> National Alliance on Mental Illness (NAMI) - 1-800-950-NAMI</li>
+      <li><strong>Podcasts:</strong> Coming soon – interviews with athletes who bounced back stronger.</li>
+      <li><strong>Books:</strong> "The Champion’s Comeback" by Jim Afremow</li>
+    </ul>
+  </section>
+
+  <section id="stories" class="card">
+    <h2>Real Athlete Stories</h2>
+    <p>Read stories of local and national athletes who turned their injuries into turning points. Want to share your story? Submit through our contact form below.</p>
+  </section>
+
+  <section id="contact" class="card">
+    <h2>Get in Touch</h2>
+    <p>If you want to be featured, suggest resources, or partner on this project, send an email to <strong>mindinmotionproject@gmail.com</strong>.</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Mind in Motion. Created by Abhinav Chandran.</p>
+  </footer>
+</body>
+</html>
